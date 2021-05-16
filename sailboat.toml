@@ -13,9 +13,9 @@ description = "<left blank>"
 url = "https://github.com"
 keywords = "kw1 kw2 kw3"
 license = "none"
-latest_build = "0.0.2"
-release-notes = "Initial Release"
-latest_release = "0.0.1"
+latest_build = "0.0.3"
+release-notes = "Release 2"
+latest_release = "0.0.2"
 
 
 # Resource Setup:

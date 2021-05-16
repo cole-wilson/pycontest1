@@ -26,7 +26,7 @@ except FileNotFoundError:
 
 options = {
 	"name": "test_project_pycon2021",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"scripts": ['bin/hello'],
 	"entry_points": {'console_scripts': []},
 	"author": "Cole Wilson",
